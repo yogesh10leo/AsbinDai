@@ -1,6 +1,7 @@
 #pragma once
 #include "afxwin.h"
 #include "resource.h"
+#include "stdafx.h"
 
 // CTestAPI dialog
 
