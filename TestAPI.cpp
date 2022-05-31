@@ -1,6 +1,6 @@
 // TestAPI.cpp : implementation file
 //
-
+*this is asbin
 #include "stdafx.h"
 #include "TestPrinterUtility.h"
 #include "TestAPI.h"
