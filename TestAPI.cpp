@@ -1,6 +1,6 @@
 // TestAPI.cpp : implementation file
 //
-
+*this is admond
 #include "stdafx.h"
 #include "TestPrinterUtility.h"
 #include "TestAPI.h"
